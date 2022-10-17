@@ -53,3 +53,9 @@ Slightly before the addon was retired, I attempted to code a custom caching syst
 * - COUNTDOWN [CDE] - Information about client's countdown status.
 * ADD [ADD]         - Request to be added to the report list.
 * REMOVE [RMV]      - Request to be removed from the report list.
+
+### Libraries used:
+* AceComm-3.0
+* AceSerializer-3.0
+* CallbackHandler-1.0
+* LibStub
