@@ -48,9 +48,9 @@ Slightly before the addon was retired, I attempted to code a custom caching syst
 
 #### POST
 * SEND [SND]        - Sends information to other clients through whispers.
-- TIMER [TMR]     - Information about current timer.
-- REPORT [REP]    - Information about current report list.
-- COUNTDOWN [CDE] - Information about client's countdown status.
+* - TIMER [TMR]     - Information about current timer.
+* - REPORT [REP]    - Information about current report list.
+* - COUNTDOWN [CDE] - Information about client's countdown status.
 * ADD [ADD]         - Request to be added to the report list.
 * REMOVE [RMV]      - Request to be removed from the report list.
 
