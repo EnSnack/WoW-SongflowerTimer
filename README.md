@@ -6,7 +6,7 @@ The year is 2019, you're playing Classic WoW and buffing for Molten Core around 
 A couple of months later and the addon swiftly got replaced, but the legacy of the Songflower Timer Keeper did not. Thanks to everyone who made keeping the time fun, even if it took hours of standing still.
 
 ### How does it work?
-The functionality of the addon is quite simple it runs constantly based on 2 important, and 2 less important event listeners, in order of importance:
+The functionality of the addon is quite simple, it runs constantly based on 2 important, and 2 less important event listeners, in order of importance:
 * COMBAT_LOG_EVENT_UNFILTERED
 * CHAT_MSG_*
 * ADDON_LOADED
